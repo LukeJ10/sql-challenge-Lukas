@@ -1,0 +1,2 @@
+NOMER 1
+pakai WHERE age_student = 15 karena di minta untuk semua umur 15
